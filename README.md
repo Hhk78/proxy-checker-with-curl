@@ -44,4 +44,5 @@ Aynı şekide socks5 yazan yerleri http veya https veyahut socks4 olarak değiş
 
 
 ```bash
-sed 's/^/http:\/\//; s/:/:/' http-proxy-list.txt -i```
+sed 's/^/http:\/\//; s/:/:/' http-proxy-list.txt -i
+```
